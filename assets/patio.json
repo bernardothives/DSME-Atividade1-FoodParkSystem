@@ -1,0 +1,16 @@
+{
+  "nome": "Blue Food Park",
+  "fotos": [
+    "https://media-cdn.tripadvisor.com/media/photo-s/12/bd/26/6a/ambiente-aconchegante.jpg",
+    "https://freguesiacult.com.br/wp-content/uploads/meu-jardim-7-800x800.jpg"
+  ],
+  "endereco": "Rua Principal, 123, Centro, Cidade",
+  "telefone": "123456789",
+  "whatsapp": "5511999999999",
+  "redesSociais": [
+    {"nome": "Facebook", "url": "https://facebook.com/foodparkcentral"},
+    {"nome": "Instagram", "url": "https://instagram.com/foodparkcentral"}
+  ],
+  "site": "https://foodparkcentral.com",
+  "email": "contato@foodparkcentral.com"
+}

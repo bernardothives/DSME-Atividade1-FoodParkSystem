@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Show de Banda Local",
+    "descricao": "Aproveite o som da melhor banda da cidade.",
+    "videoUrl": "https://www.youtube.com/watch?v=example"
+  },
+  {
+    "id": 2,
+    "titulo": "Stand-up Comedy",
+    "descricao": "Rir é o melhor remédio.",
+    "videoUrl": "https://www.youtube.com/watch?v=example2"
+  }
+]

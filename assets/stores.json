@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "nome": "Pizza Delícia",
+    "banner": "https://img.freepik.com/psd-gratuitas/menu-de-comida-e-pizza-deliciosa-modelo-de-banner-de-capa-do-facebook_120329-4895.jpg",
+    "fotos": [
+      "https://italianismo.com.br/wp-content/uploads/2024/10/Pizzaria-mais-antiga-do-Brasil.jpg",
+      "https://revistashoppingcenters.com.br/wp-content/uploads/2019/12/abrasce_capa_PizzaMakers_inova_no_conceito_de_pizzaria.jpg"
+    ],
+    "descricao": "Pizzas artesanais com ingredientes frescos.",
+    "telefone": "123456789",
+    "whatsapp": "5511912345678",
+    "redesSociais": [
+      {"nome": "Instagram", "url": "https://instagram.com/pizzadelicia"}
+    ],
+    "email": "contato@pizzadelicia.com",
+    "deliveryUrl": "https://delivery.com/pizzadelicia",
+    "cardapio": [
+      {
+        "id": 101,
+        "nome": "Pizza Margherita",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KFDZkjY8zVpr1ftr2n7Rm_OLf0Eq3inoxw&s",
+        "preco": 29.90,
+        "descricao": "Clássica pizza de queijo, tomate e manjericão.",
+        "quantidade": "300g",
+        "ingredientes": ["Queijo", "Tomate", "Manjericão"]
+      },
+      {
+        "id": 102,
+        "nome": "Pizza Calabresa",
+        "thumbnail": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3277542:1663012513/Pizza-de-calabresa.jpg?f=default&   $p$f=00df3e9",
+        "preco": 34.90,
+        "descricao": "Pizza com calabresa, cebola e azeitonas.",
+        "quantidade": "350g",
+        "ingredientes": ["Calabresa", "Cebola", "Azeitonas"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Hamburgueria Sabor",
+    "banner": "https://img.cdndsgni.com/preview/10109390.jpg",
+    "fotos": [
+      "https://invexo.com.br/blog/wp-content/uploads/2021/06/Hamburgueria-da-Alf%C3%A2ndega-Ipanema.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR62W57deCLKD-Kp2eVTS1DVOCvDuNwOii94P6r9u0OGxOa0q-yMNkL06dakxFuTpmXTj0&usqp=CAU"
+    ],
+    "descricao": "Hambúrgueres artesanais com pães fresquinhos.",
+    "telefone": "987654321",
+    "whatsapp": "5511987654321",
+    "redesSociais": [
+      {"nome": "Facebook", "url": "https://facebook.com/hamburgueriasabor"}
+    ],
+    "email": "contato@hamburgueriasabor.com",
+    "deliveryUrl": "https://delivery.com/hamburgueriasabor",
+    "cardapio": [
+      {
+        "id": 201,
+        "nome": "Hambúrguer Clássico",
+        "thumbnail": "https://www.cnnbrasil.com.br/viagemegastronomia/wp-content/uploads/sites/5/2022/05/mafe-estudio-LV2p9Utbkbw-unsplash.jpg",
+        "preco": 24.90,
+        "descricao": "Hambúrguer com carne bovina, alface, tomate e queijo.",
+        "quantidade": "200g",
+        "ingredientes": ["Carne", "Alface", "Tomate", "Queijo"]
+      },
+      {
+        "id": 202,
+        "nome": "Hambúrguer Duplo",
+        "thumbnail": "https://s2.glbimg.com/iuGCjMvw0HMFAxZ_4GWRIlvFNWY=/512x320/smart/e.glbimg.com/og/ed/f/original/2021/04/30/receita-hamburguer-smash-burguer-bacon-cheddaar.jpg",
+        "preco": 34.90,
+        "descricao": "Dois hambúrgueres com queijo extra.",
+        "quantidade": "300g",
+        "ingredientes": ["Carne", "Queijo", "Alface", "Tomate"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Sushi House",
+    "banner": "https://salada.sfo2.digitaloceanspaces.com/img/ofertas/delicia-de-sushi-desconto-em-sushi_001.jpg",
+    "fotos": [
+      "https://images.adsttc.com/media/images/5b22/d7b6/f197/cc06/de00/0089/newsletter/2016_07_04_Tori_Tori_by_Jaime_Navarro_Rojkind_036.jpg?1529010094",
+      "https://foodandpleasure.com/wp-content/uploads/2024/11/restaurantes-japoneses-en-cdmx-oma.jpg"
+    ],
+    "descricao": "Sushi e sashimi preparados na hora.",
+    "telefone": "1122334455",
+    "whatsapp": "5511911223344",
+    "redesSociais": [
+      {"nome": "Instagram", "url": "https://instagram.com/sushihouse"}
+    ],
+    "email": "contato@sushihouse.com",
+    "deliveryUrl": "https://delivery.com/sushihouse",
+    "cardapio": [
+      {
+        "id": 301,
+        "nome": "Sushi Tradicional",
+        "thumbnail": "https://segredosdomundo.r7.com/wp-content/uploads/2021/09/tipos-de-sushi-conheca-a-variedade-de-sabores-dessa-comida-japonesa.jpg",
+        "preco": 39.90,
+        "descricao": "Sushi de salmão, atum e pepino.",
+        "quantidade": "150g",
+        "ingredientes": ["Salmão", "Atum", "Pepino", "Arroz"]
+      },
+      {
+        "id": 302,
+        "nome": "Sashimi Variado",
+        "thumbnail": "https://blog.topatlantico.pt/wp-content/uploads/2021/06/shutterstock_379170394-min-1.jpg",
+        "preco": 49.90,
+        "descricao": "Seleção de sashimis frescos.",
+        "quantidade": "200g",
+        "ingredientes": ["Salmão", "Atum", "Peixe Branco"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Burger Mania",
+    "banner": "https://www.shutterstock.com/image-vector/hot-fried-chicken-burger-banner-600nw-1508393192.jpg",
+    "fotos": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ab/de/79/fachada-burgo-artesanal.jpg?w=900&h=500&s=1",
+      "https://mapadasfranquias.com.br/wp-content/uploads/2021/10/389loja.jpeg"
+    ],
+    "descricao": "Burgers criativos e deliciosos.",
+    "telefone": "5566778899",
+    "whatsapp": "551155667788",
+    "redesSociais": [
+      {"nome": "Facebook", "url": "https://facebook.com/burgermania"}
+    ],
+    "email": "contato@burgermania.com",
+    "deliveryUrl": "https://delivery.com/burgermania",
+    "cardapio": [
+      {
+        "id": 401,
+        "nome": "Burger Simples",
+        "thumbnail": "https://manualdohomemmoderno.com.br/files/2020/05/como-fazer-o-melhor-hamburguer-caseiro-como-escolher-as-carnes-e-2-receitas-simples-e-praticas-como-fazer-o-melhor-hamburguer-caseiro-como-escolher-as-carnes-e-2-receitas-simples-e-praticas-4.jpg",
+        "preco": 19.90,
+        "descricao": "Burger com queijo, alface e tomate.",
+        "quantidade": "250g",
+        "ingredientes": ["Carne", "Queijo", "Alface", "Tomate"]
+      },
+      {
+        "id": 402,
+        "nome": "Burger Especial",
+        "thumbnail": "https://forbes.com.br/wp-content/uploads/2022/05/big-k-2.jpg",
+        "preco": 29.90,
+        "descricao": "Burger com bacon e molho especial.",
+        "quantidade": "300g",
+        "ingredientes": ["Carne", "Bacon", "Queijo", "Molho especial"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Doces & Cia",
+    "banner": "https://img.cdndsgni.com/preview/12685435.jpg",
+    "fotos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdSJBpxGQkG5yPJZBwlND1rFXyCXSwbWPNw&s",
+      "https://cms-cdn.saipos.com/assets/2022/05/11/Banner-HTML-Sistema-para-Doceria_uid_627c159790c05.png"
+    ],
+    "descricao": "Sobremesas irresistíveis e bolos caseiros.",
+    "telefone": "9988776655",
+    "whatsapp": "551199887766",
+    "redesSociais": [
+      {"nome": "Instagram", "url": "https://instagram.com/docescia"}
+    ],
+    "email": "contato@docescia.com",
+    "deliveryUrl": "https://delivery.com/docescia",
+    "cardapio": [
+      {
+        "id": 501,
+        "nome": "Bolo de Chocolate",
+        "thumbnail": "https://assets.unileversolutions.com/recipes-v2/164246.jpg",
+        "preco": 15.90,
+        "descricao": "Bolo úmido com ganache de chocolate.",
+        "quantidade": "1 fatia",
+        "ingredientes": ["Farinha", "Chocolate", "Açúcar", "Ovos"]
+      },
+      {
+        "id": 502,
+        "nome": "Brownie",
+        "thumbnail": "https://static.itdg.com.br/images/360-240/5d139b703a9df7604abf863a3bd76aa6/252863-shutterstock-1938293728.jpg",
+        "preco": 12.90,
+        "descricao": "Brownie com pedaços de nozes.",
+        "quantidade": "1 unidade",
+        "ingredientes": ["Chocolate", "Nozes", "Farinha", "Açúcar"]
+      }
+    ]
+  }
+]
