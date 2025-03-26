@@ -1,4 +1,4 @@
-# DSME1-FoodParkSystem
+# FoodParkSystem
 ## Descrição da Atividade
 
 Suponha que você foi contratado para criar um aplicativo para um pátio gastronômico, que possui diversas opções de lojas de alimentação e bebidas e promove apresentações musicais, atividades de lazer para crianças, shows de stand-up, palestras e outros tipos de eventos que atraiam público para o local. 
